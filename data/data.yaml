@@ -1,0 +1,6 @@
+names:
+- car
+nc: 1
+path: c:\Users\ivand\Documents\GitHub\proyecto-final-redes-neuronales\data
+train: c:\Users\ivand\Documents\GitHub\proyecto-final-redes-neuronales\data\images\train
+val: c:\Users\ivand\Documents\GitHub\proyecto-final-redes-neuronales\data\images\val
